@@ -1,2 +1,2 @@
-YourPluginName.options	neovim-plugin-boilerplate.txt	/*YourPluginName.options*
-YourPluginName.setup()	neovim-plugin-boilerplate.txt	/*YourPluginName.setup()*
+Roulette.vim.options	roulette.txt	/*Roulette.vim.options*
+Roulette.vim.setup()	roulette.txt	/*Roulette.vim.setup()*
